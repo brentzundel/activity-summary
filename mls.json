@@ -686,7 +686,11 @@
                 ]
             },
             "repos": [
-                "ietf-wg-spice/draft-ietf-spice-sd-cwt"
+                "ietf-wg-spice/draft-ietf-spice-sd-cwt",
+				"ietf-wg-spice/draft-ietf-spice-oidc-cwt",
+				"ietf-wg-spice/draft-ietf-spice-glue-id",
+				"ietf-wg-spice/draft-ietf-spice-sd-cwt",
+				"ietf-wg-spice/vdcarch"
             ],
             "topic": "SPICE Weekly GitHub Activity Summary"
         }
